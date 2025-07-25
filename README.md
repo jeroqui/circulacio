@@ -1,15 +1,15 @@
 
 
 
-# Circulacio
+# Circulació
 
-Aquest es un repositori amb l'objectiu de replicar amb codi la llei de circulació
+Aquest és un repositori amb l'objectiu de replicar amb codi la Llei de circulació
 vigent a Catalunya (de moment espanya). Un projecte que emprenc per estudiar
-per el test de teorica.
+per al test de teòrica.
 
-Es tracta d'un repositori de python, perque es el llenguatge més senzill que conec.
+Es tracta d'un repositori de Python, perquè és el llenguatge més senzill que conec.
 
-El codi esta elaborat a partir del text més recent de la llei de circulació que
+El codi està elaborat a partir del text més recent de la Llei de circulació que
 he estat capaç de trobar:
 https://www.boe.es/boe_catalan/dias/2015/10/31/pdfs/BOE-A-2015-11722-C.pdf
 
@@ -18,12 +18,11 @@ Al [Portal Jurídic de Catalunya](https://portaljuridic.gencat.cat/ca/) hi ha la
 ## Organització
 
 El plantejament del codi és el d'una simulació computada per "decisions", que
-vindrien a ser "torns" de acció de l'agent (conductor) - reacció de l'entorn.
+vindrien a ser "torns" d'acció de l'agent (conductor) - reacció de l'entorn.
 Sempre des del punt de vista del "vehicle" protagonista simulat.
 
-> Exemple: Si parlem de direcció o contra direcció, ho fem en relació al "vehicle"
-> abstracte des del que parlaria la llei que "és conduit per nosaltres".
+> Exemple: Si parlem de direcció o contra direcció, ho fem en relació amb el "vehicle"
+> abstracte des del qual la Llei explica que "és conduït per nosaltres".
 
-D'aquesta manera podem programar de forma bastant paralela les normes de transit
-tal com es descriuen textualment a la llei.
-
+D'aquesta manera podem programar de forma bastant paral·lela les normes de trànsit
+tal com es descriuen textualment a la Llei.
