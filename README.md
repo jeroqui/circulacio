@@ -13,6 +13,8 @@ El codi esta elaborat a partir del text més recent de la llei de circulació qu
 he estat capaç de trobar:
 https://www.boe.es/boe_catalan/dias/2015/10/31/pdfs/BOE-A-2015-11722-C.pdf
 
+Al [Portal Jurídic de Catalunya](https://portaljuridic.gencat.cat/ca/) hi ha la versió oficial catalana del [Reial decret legislatiu 6/2015, de 30 d’octubre, pel qual s’aprova el text refós de la Llei sobre trànsit, circulació de vehicles de motor i seguretat viària](https://portaljuridic.gencat.cat/ca/document-del-pjur/?documentId=717689) (en PDF i també RDF, TTL i XML).
+
 ## Organització
 
 El plantejament del codi és el d'una simulació computada per "decisions", que
